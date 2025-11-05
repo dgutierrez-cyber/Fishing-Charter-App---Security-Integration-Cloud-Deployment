@@ -11,7 +11,7 @@
 
 ## Overview
 
-**HookMyCharter** is a full-stack fishing charter booking platform that connects captains and customers through listings, map-based searches, and integrated bookings.  
+**Hook My Charter** is a full-stack fishing charter booking platform that connects captains and customers through listings, map-based searches, and integrated bookings.  
 This lab focuses on **auditing, securing, and deploying** the app from inherited source code to a production-ready cloud environment.
 
 ---
@@ -180,7 +180,7 @@ Documentation	Markdown, GitHub Portfolio Formatting
 
 📎 Repository
 
-🔗 HookMyCharter Project
+🔗 Hook My Charter Project
 
 Author: Daniel Gutierrez
 Date: November 2025
